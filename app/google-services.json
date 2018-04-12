@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091253568927",
+    "firebase_url": "https://pointofsale-bee44.firebaseio.com",
+    "project_id": "pointofsale-bee44",
+    "storage_bucket": "pointofsale-bee44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091253568927:android:a37b88c193bec719",
+        "android_client_info": {
+          "package_name": "com.pos.neal.pointofsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091253568927-0l0i49o6kh55jdv5vv1d0ru79ciodddq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pos.neal.pointofsale",
+            "certificate_hash": "55377c822318ddec62116487a78bc2afb4fc6a94"
+          }
+        },
+        {
+          "client_id": "1091253568927-enqmq6tdl8umip7l7oh5kjp31c6u039b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJfzk46DiFHJ4r6jjcULhNqyh5bj6_08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091253568927-enqmq6tdl8umip7l7oh5kjp31c6u039b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
